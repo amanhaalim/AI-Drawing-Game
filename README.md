@@ -1,4 +1,4 @@
-# AI Magic Drawing Guessing Game
+# AI Drawing Guessing Game
 
 A fun interactive game where they draw in the air with their finger and AI guesses what they drew!
 
