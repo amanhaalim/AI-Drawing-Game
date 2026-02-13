@@ -1,6 +1,6 @@
 # AI Magic Drawing Guessing Game
 
-A fun interactive game for children aged 10-12 where they draw in the air with their finger and AI guesses what they drew!
+A fun interactive game where they draw in the air with their finger and AI guesses what they drew!
 
 ## Requirements
 
